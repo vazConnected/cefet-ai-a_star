@@ -1,6 +1,6 @@
-# Algoritmo A* (A-estrela)
+# Algoritmo A* (A-estrela) para a obtenção de um caminho ótimo
 
-## O que é?
+## O que é o A* (A-estrela)?
 A-estrela é um algoritmo de busca de caminho, ou seja, tem o objetivo de determinar um caminho entre um vértice inicial e um vértice final. Para a determinação do caminho, é utilizada uma combinação de aproximações heurísticas e do Algoritmo de Dijkstra.
 
 ## Aplicação
